@@ -3,6 +3,7 @@
  *
  * This file is part of abcm2ps.
  *
+ * Modified by Mosalam Ebrahimi <m.ebrahimi@ieee.org>
  * Copyright (C) 1998-2013 Jean-François Moine
  *
  * This program is free software; you can redistribute it and/or modify

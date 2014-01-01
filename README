@@ -1,5 +1,9 @@
 		--- abcm2ps version 7.x.x ---
 
+ID Attribute
+============
+abcm2ps is modified to add the ID attribute with a unique value for each element of the generated SVG file. Stems have this ID format "stem%d" and the elements of the other symbols contain "sym%d". This makes addressing the elements of the SVG file easier, e.g., to draw with a different color.
+
 Overview
 ========
 
